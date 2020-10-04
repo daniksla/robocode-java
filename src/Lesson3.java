@@ -8,11 +8,6 @@ public class Lesson3 {
         int a=scan.nextInt();
         System.out.print(x*a);
         System.out.println(x+a*2);
-
-
-
-
-
     }
 
 }
